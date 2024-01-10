@@ -18,8 +18,9 @@ Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arleysp&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-arleysp.vercel.app/api/top-langs/?username=arleysp&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src=" https://github-readme-stats.vercel.app/api/top-langs?username=arleysp&show_icons=true&theme=radical&locale=en&layout=compact" />
  </div>
+
  
  &nbsp;
  &nbsp;
@@ -41,8 +42,7 @@ Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -63,7 +63,7 @@ Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que
 <div> 
 <a href="https://www.instagram.com/arley.spereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.arleysilveirap@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:arleysilveirap@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arleyspereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
