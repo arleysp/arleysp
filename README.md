@@ -13,6 +13,7 @@ Na minha formação, desenvolvi projetos com JavaScript, CSS, React, Styled-Comp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/arleyspereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arleyspereira" height="30" width="40" /></a>
 <a href="https://instagram.com/arley.spereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arley.spereira" height="30" width="40" /></a>
 </p>
 
