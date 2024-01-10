@@ -1,8 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/arleysp/arleysp/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+## Oi! Eu sou o Arley, futuro Dev Full-Stack.
 
 <p align="center">
-Futuro Desenvolvedor Full-Stack. <br><br> Sou um desenvolvedor Full-Stack em formação apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
+Sou um desenvolvedor Full-Stack em formação apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
 </p>
 
 <p>
