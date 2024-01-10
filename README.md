@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Arley, futuro Dev Full-Stack.
 
-<p align="center">
+<p>
 Sou um desenvolvedor Full-Stack em formação apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
 </p>
 
