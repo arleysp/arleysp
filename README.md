@@ -18,7 +18,8 @@ Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=arleysp&theme=radical&mode=weekly" />
-<img width=40% align="center" src=" https://github-readme-stats.vercel.app/api/top-langs?username=arleysp&show_icons=true&locale=en&layout=compact" />
+<img width=40% align="center" src=" hgithub-readme-stats-one-nu-20.vercel.app
+/api/top-langs?username=arleysp&show_icons=true&locale=en&layout=compact" />
  </div>
 
  
