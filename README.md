@@ -8,10 +8,6 @@ Sou um desenvolvedor Full-Stack em formação apaixonado por literatura e tecnol
 Como alguém que não consegue deixar os sonhos pra trás, agora estudo para ser um desenvolvedor Full-Stack e poder explorar ao máximo as possibilidades que essa área me oferece. Atualmente sou aluno da Trybe, tendo concluído a formação em Front-End e sigo estudando para também dominar as competências de um desenvolvedor Back-End.</p>
 
 <p>
-Na minha formação, desenvolvi projetos com JavaScript, CSS, React, Styled-Components, Docker, TypeScript e outras ferramentas.
-</p>
-
-<p>
 Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que possam me trazer novas visões e experiências.
 </p>&nbsp;
 
