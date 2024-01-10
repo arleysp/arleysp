@@ -1,6 +1,6 @@
 ## Futuro Desenvolvedor Full-Stack
 
-Meu nome é Arley Pereira e sou apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico. 
+Meu nome é Arley e sou apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico. 
 
 Como alguém que não consegue deixar os sonhos pra trás, agora estudo para ser um desenvolvedor full-stack e poder explorar ao máximo as possibilidades que essa área me oferece. 
 
