@@ -1,4 +1,4 @@
-## Oi! Eu sou o Arley, futuro Dev Full-Stack.
+## Oi! Eu sou o Arley, Dev Back-End e professor.
 
 <p>
 Sou um Desenvolvedor Web Back-End com formação Full-Stack pela escola de programação Trybe. Sou apaixonado por literatura e tecnologia, e por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
