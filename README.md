@@ -1,14 +1,14 @@
 ## Oi! Eu sou o Arley, Dev Back-End e professor.
 
 <p>
-Sou professor e Desenvolvedor Web Back-End com formação Full-Stack pela escola de programação Trybe. Sou apaixonado por literatura e tecnologia, e por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa e Língua Inglesa no ensino básico.
+Sou professor e Desenvolvedor Web Back-End com formação Full-Stack pela escola de programação Trybe. Apaixonado por literatura e tecnologia, iniciei minha carreira na licenciatura, atuando como professor de Língua Portuguesa e Língua Inglesa no ensino básico.
 </p>
 
 <p>
-Como alguém que não consegue deixar os sonhos pra trás, agora estudo para  poder explorar ao máximo as possibilidades que a área da tecnologia me oferece. Na minha formação, desenvolvi projetos com JavaScript, Python, Java, CSS, React, Docker, TypeScript, MySQL, Sequelize e outras ferramentas.</p>
+Apesar de minha carreira inicial na educação, sempre mantive um forte interesse pela tecnologia. Atualmente, estudo para explorar ao máximo as possibilidades que essa área oferece. Durante minha formação, desenvolvi projetos com JavaScript, Python, Java, CSS, React, Docker, TypeScript, MySQL, Sequelize, entre outras ferramentas.</p>
 
 <p>
-Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que possam me trazer novas visões e experiências.
+Estou sempre em busca de novas oportunidades para aprender e me conectar com pessoas que possam trazer novas visões e experiências.
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
