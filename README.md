@@ -1,11 +1,11 @@
 ## Oi! Eu sou o Arley, futuro Dev Full-Stack.
 
 <p>
-Sou um desenvolvedor Full-Stack em formação apaixonado por literatura e tecnologia. Por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
+Sou um Desenvolvedor Web Back-End com formação Full-Stack pela escola de programação Trybe. Sou apaixonado por literatura e tecnologia, e por conta da dúvida entre essas áreas, atuei primeiramente na licenciatura, como professor de Língua Portuguesa no ensino básico.
 </p>
 
 <p>
-Como alguém que não consegue deixar os sonhos pra trás, agora estudo para ser um desenvolvedor Full-Stack e poder explorar ao máximo as possibilidades que essa área me oferece. Atualmente sou aluno da Trybe, tendo concluído a formação em Front-End e sigo estudando para também dominar as competências de um desenvolvedor Back-End.</p>
+Como alguém que não consegue deixar os sonhos pra trás, agora estudo para poder explorar ao máximo as possibilidades que a área da tecnologia me oferece. Atualmente sou aluno da Trybe, e busco explorar ao máximo as ferramentas que me são oferecidas para evoluir nessa jornada.</p>
 
 <p>
 Busco explorar cada dia mais a área da tecnologia e me conectar com pessoas que possam me trazer novas visões e experiências.
